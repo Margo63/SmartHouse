@@ -20,7 +20,7 @@ import android.widget.RadioButton
 import androidx.appcompat.app.AppCompatActivity
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.LinearLayoutManager
-//import com.ws.smarthouse.databinding.ActivityMainBinding
+import com.ws.smarthouse.databinding.ActivityMainBinding
 import java.util.*
 
 
